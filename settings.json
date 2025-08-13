@@ -57,13 +57,4 @@
   // 🔄 AUTO IMPORTS
   "typescript.updateImportsOnFileMove.enabled": "always",
   "javascript.updateImportsOnFileMove.enabled": "always",
-
-  // 🤖 EXTENSIONS & SETTINGS
-  "github.copilot.enable": {
-    "*": false,
-    "plaintext": false,
-    "markdown": false,
-    "scminput": false
-  },
-  "chat.commandCenter.enabled": true
 }
